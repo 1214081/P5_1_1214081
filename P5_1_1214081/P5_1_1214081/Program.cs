@@ -11,6 +11,7 @@ namespace P5_1_1214081
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
+        /// apakah berhasil
         [STAThread]
         static void Main()
         {
